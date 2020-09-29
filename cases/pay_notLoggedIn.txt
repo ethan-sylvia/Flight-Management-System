@@ -1,0 +1,10 @@
+# attempt to pay but not logged in
+#
+pay 1
+quit
+*
+#
+# expected output
+Cannot pay, not logged in
+Goodbye
+

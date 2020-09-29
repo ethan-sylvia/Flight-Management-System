@@ -1,0 +1,12 @@
+#
+# search with no results
+#
+search "Seattle WA" "Phoenix TT" 1 1 1
+quit
+*
+#
+# expected output
+#
+No flights match your selection
+Goodbye
+*

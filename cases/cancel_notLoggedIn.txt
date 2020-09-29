@@ -1,0 +1,11 @@
+# User tries to cancel reservation without being logged in
+#
+cancel 1
+quit
+*
+#
+# expected output
+#
+Cannot cancel reservations, not logged in
+Goodbye
+*
